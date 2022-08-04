@@ -1,0 +1,34 @@
+Bus booking system:
+Features
+1.Buses
+ 1.1Register bus
+ 2.1Bus Report 
+	3. DB => Bus type, bus Name, Chasis No, Bus registration, Fuel type, Number of seats
+Ticket
+ 3.Book ticket
+ 4.Cancel ticket
+Passengers
+ 5.Register Passenger
+ 6. Manage Passengers
+Journeys
+ 7. Add New journey
+ 8. view journeys
+
+Admin
+- generate Report on Customer, Ticket Booking 
+- Export report og Bus Schedule, Route & Booking
+- Reports of Customer, Bus Schedule,Route & Booking
+- Export report of Customer, Ticket Bookubg, Booking, Bus Schedule in PDF
+- Print functionality
+
+
+Major Module:
+
+Customer Module
+Ticket Booking Module
+Bus Schedule Module
+Bus Route Module
+Booking Module
+Seat Module
+
+
